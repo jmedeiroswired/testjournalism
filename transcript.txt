@@ -1,0 +1,247 @@
+Unknown Speaker  0:00  
+Briefly, I'm just exploring the idea of doing a longer storey leading up to Tokyo for for Wired. So really, I mean, I'm, I'm quite curious to hear more about, you know, your work and the app that's developed. Maybe we can start. Give me a little bit. I mean, I've and I know I saw some of the I listened to some of the interviews you gave them podcasts. Do give me a more background on on the actual storey. I mean, how did you get involved in something like this?
+
+Unknown Speaker  0:35  
+Yeah, good question. Okay. So going way back. And I did my PhD. So I guess personally is like I'm a passionate athlete myself. So this area means a lot to me. But also way, way back, I think was in 2014. I literally 15 Sorry, I was being ready HD and looking at Actually how heavy menstrual bleeding specifically effects iron deficiency and iron status. And because my PhD was focused on efficiency initially, and I went to the London medicine, like pre event exhibition and I surveyed 1072 women basically to find out their experiences around the menstrual cycle but specifically focusing in on like we mentioned leading but in so doing I guess I felt that I open this forum for women to suddenly asked me all the questions that they've never been told about the menstrual cycle. And you're like, Oh, I'm supposed to be running the marathon on Sunday. Like Can I do it because I'm menstruating or I get terrible sentence is this normal? or Google told me this and and you know, I notice I get a flat rock as a previous injury at certain times in my menstrual cycle. What does that mean? If it was So many questions and I guess it's funny that one takes these things for granted that you people know this and obviously my like my undergrad and all like I've done biology I had, you know that that's my area. So I was like, this is crazy people want to know this and don't know it. And I think I'm also very passionate about fought for mental health and fought for, like making you feel good about yourself as well. And we know the massive benefits of an exercise. So I would highly I guess, like, I quickly changed the tack of my PhD and focused in a bit more on the mental cycle and looking at like barriers to people being able to perform but also participate. And, and alongside doing my PhD I still do and I was working for a company called overcame a rigorous sports consultancy business which essentially, like work with elite athletes to help them optimise the performance but also reduce risk of injury. And, and, like Historically, the clients that are okay have been men because there's more money in mail for service eight, and then more and more professionalism. And, and I actually remember my first meeting or Okay, I kept down and they showed us this new demo video of all of our clients and I was like, and then they put my hands I wish I could we shouldn't have done but I was like, Where are the women that praises me women? And so anyway, on the back of that, and I guess I would regularly speak to one of my colleagues that are okay about all of this information on the mental side, and then as I call, I guess, I started researching it more and more, you know, did you know that you adapt better just think painting at certain times in the mental cycles and you know, the more than 80% of women experience bad symptoms and like all of this stuff was increasing me. I was just like, totally All of this, and alongside working with the participants in my research study, anyway. And we then decided to go to our CEO, and basically say all about Brian Yeah. And AO like, you know, what, what do you think Brian, like, could be 10 minutes into an app. And I'm definitely no app developer or product designer say that was my colleague. Granja can actually use like the CO creator of the two women and buy in, like, amazing. He believed in our mission, I guess and said, Look, you can have a small bit of budget, he go away and try and develop an app and get people interested. If you can get 10,000 people interested. And in a short period of time, then you know, I will give you some more budget to develop a bit more. And so we went off and it was kind of our weekend job because I was in my day. You had a full time job. Okay, so we just have to keep it like your free time kind of hungry. And anyway, we managed to do that in and actually, yeah, got a fair amount of publicity behind it, which is really cool, which meant that more people wants to donate. And we still to this day don't have any marketing budget or marketing team or anything. So it's very much spread through word of mouth, but
+
+Unknown Speaker  5:23  
+I guess. And so yeah, we developed our generic app, and then we got more budget to develop a more advanced version. And then on the back of that, I had this amazing opportunity to go and present to the conference in New Zealand and then on the way to New Zealand, they went viral Australia, New Zealand rose because I did a concert in the states as well. So I came back by the seats and on this kind of trip, I've got loads of different people I managed to like network with young athletes and pro athlete like the head of the Australian Tennis Association. For example, and like a wide wide range of people from different sports just to better understand what, what people want and what people need. And I quickly realised that actually, coaches need this information as well because it's all well and good athletes, coaches often need to know. And one of the key people I also he was doing Scottish, the US women's national soccer team and and so she has worked with Brian RK for a while to hear the notice. And guys have sat down with her show to everything and she she's, I mean, she's on the ground she sees the impact of the menstrual cycle is having on her players that just hasn't had a tool or help and support to manage it. So we then started working with him much more extensively personally just to educating the coaches and then like on a player by player basis, and and then I guess alongside that, we develop the coach version of that and then we progress the coming up with a consultancy model where And, you know, we can work with proteins which we do now and across the world to basically. Yes, support them in, like, the goals and by optimising performance the juicing symptom. Yeah, like, no, I guess the things that we do now is very, very, very good. And I guess that's everything. And then I guess the other thing to highlight it, like I now have to finish my PhD and so work for RK full time, but a big part of what we're trying to do, and a big passion of mine as well is to like remove barriers from exercise across the board. So from your elite athlete right the way down to your youngster who drops out from exercising because there again and don't realise that it's normal constant symptoms NX exercise helps and, you know, they can't talk about periods became Historically people haven't. And we actually had done a massive research project with Java. And we started it in February and yeah surveyed 1400 14,000 sorry women across seven different countries to better understand people's XI behaviours around meditation and highlighting what are the key barriers, etc.
+
+Unknown Speaker  8:24  
+And are you working? Because I know that the English Institute of Sport also have a programme called smarter. Are you working with them?
+
+Unknown Speaker  8:37  
+time? No yes or no. So we're not working directly with them so and rich burden, who is one of the key guys yeah, he like he was one of my co he provided some a PhD so I know him very well. And we like published some things together. And we're not strictly aligned because they have an athlete management system. them which is complicated because we are app and coach platform current at the moment integrate into the athlete management system that I have what like help some of their athletes but it's not there's no like formal partnership or anything
+
+Unknown Speaker  9:16  
+but Richard is your colleague is that correct? And
+
+Unknown Speaker  9:22  
+I'm still to this day yet he said sometimes too,
+
+Unknown Speaker  9:25  
+so I guess you guys chat frequently.
+
+Unknown Speaker  9:27  
+Yeah. Yeah. Yeah. So
+
+Unknown Speaker  9:30  
+can you Charlie Charlie go to Chucky peddler and but surely Padma, he's like our head of science at RK. And he, he was like my primary supervisors, my PhD and he was also Richard supervisor. So we have a bit of a reset screen isn't very like interconnected.
+
+Unknown Speaker  9:49  
+And tell me tell me one thing. I mean, you mentioned obviously the impact of an you know, I written about this before. related to a work that was done sort of isolated with the the field hockey team, Team GB spirit Oh yeah, you were Yeah.
+
+Unknown Speaker  10:11  
+Yeah, okay. I am I was a yes yeah, yeah.
+
+Unknown Speaker  10:14  
+So but tell me one thing I mean from from your point of view
+
+Unknown Speaker  10:18  
+so is this a completely new thing in terms of for for for women athletes I mean because people sometimes talk about marginal gains. This feels more like just marginal This feels like it's it's it's a whole I mean it's so fundamental to to the to the female athlete
+
+Unknown Speaker  10:38  
+Yeah, I like that either. Interesting question I'm Yes, marginal gains, I can see that that also, I can see players not sleeping the night before games. I have been in agony on the pitch because vomiting before training or before matches because they've got such bad sentence. So there's marginal gains and as like extreme intense and I think it, it is interesting. I'm not convinced that it's just not cool to just module game module game I should know games for some people who don't experience many symptoms. And ideally, like, My aim is to get it to the point where people don't experience bad symptoms and then we can look to optimise their performance and change the girls or girls because historically women have been trained the way you would train a man because that was that was all that was known. So I think from my perspective, if I can start like shaping or helping to educate like women don't activate their posterior chain properly. So like the back of their legs, they are very quad dominant if I can start educating people around that and, you know, basic principles about how it's different between girls versus boys, and that would be a big, big focus of mine. And it's all going to be challenging. And But
+
+Unknown Speaker  12:02  
+yeah, I guess I guess the point I'm, you know, and correct me if I'm wrong so. So what I'm thinking is I mean the whole stress adaptation. physiology is essential to the athlete tickets, how it's what a coach and a physiologist uses to improve the athletes and improves performance or her performance. And that's that's basically hormonal and hormonal thing in terms of the stuff thrown when it comes to the women athletes, the female athlete the menstrual cycle is so fundamental to that adaptation, isn't it? Yeah,
+
+Unknown Speaker  12:44  
+yeah, exactly. Because like oestrogen or oestrogen and progesterone and travel in the speculation, the effects in those areas to go with actors. They like their molecules that detects the presence of oestrogen and their metabolically been localised to a whole range of different tissue, like, you know, the soft tissue around your knee to those receptors in your brain. Like, there's so many different elements that are affected by the changing hormones. But it's, it's crazy that it's not being like that. And I mean, you can see it like mood disturbances, for example depression and arthritis like there's so many different conditions which are almost exacerbated at certain times in the menstrual cycle.
+
+Unknown Speaker  13:31  
+And tell me, I guess,
+
+Unknown Speaker  13:33  
+I guess the points were you when did you actually meet Don Scott?
+
+Unknown Speaker  13:39  
+And see, for the first time I met her in she actually met her in May 2018. So I've spoken to her in the past a few times and Brian, or Rico knows her anyway.
+
+Unknown Speaker  13:58  
+So it was it was it for you? A big
+
+Unknown Speaker  14:03  
+breakthrough in an insensitive of adopting someone like Don adopting your technology with a group of players like like the American team.
+
+Unknown Speaker  14:13  
+Yeah, I mean definitely a breakthrough in
+
+Unknown Speaker  14:17  
+and like keenness to adopt this, but also, I think, because we might my thing is that women's sport has gone professional very quickly. And so we've gone from, like, you know, amateur amateur land to elite, like let's treat women as proper athletes in quite some short space of time. And as a result, like a lot of the basic principles haven't been fully and looking at nutrition to looking at recovery and all of these, even, you know, the generic basic things that we should understand. So I'm sorry But when you layer on the mental side on top of it, that makes it even more complicated. And I just took that. And because this jump has happened, people haven't got the basics right, let alone even get like the old like saturated wallet, like female specific requirements. And say, I think in terms of dawn adopting this, like it was a no brainer. Like they as the best team in the world, they're already really focusing on how they can, you know, recover better how they can create the the heat, how they can maximise all of their training, and I think going very well known for not leaving any stone unturned. And I think her like, she was on the ground getting messages and players saying, I've been up all night, I've got such bad stomach cramps, so she needs to be like, couldn't ignore it.
+
+Unknown Speaker  15:55  
+So I think,
+
+Unknown Speaker  15:56  
+yeah,
+
+Unknown Speaker  15:58  
+I mean, it's so interesting. saying how like a when krim dawn just like giving the Gaza bit of an education to suddenly the girls feeling that that door was opened and then wanted support. And then and, again, because of the lack of professionalism in women. I feel that it's very important to to empower women with this understanding for their long term like health as well. So and Dawn, Dawn, because we believe in that as well. So our focus has been Yes, look at performance, but also let's focus on health. And we're now what? Yeah, with another women so cooking a nice I wanted the primary go. Hello.
+
+Unknown Speaker  16:46  
+Hello. Yeah. So yeah.
+
+Unknown Speaker  16:50  
+And tell me the app, the app itself, tell me a little bit how I mean, I haven't downloaded it yet. I will. But tell me how it works. what's what's the The basic
+
+Unknown Speaker  17:02  
+so you can log on and you can track your mental physical symptoms alongside tracking and when you actually menstruating and, and we call an algorithm in there which enables a prediction of where you are in your menstrual cycle. And not only does the app then tell you like when your next cycle is due, it also tells you like what being in any, any one place in your menstrual cycle means from a training perspective, from a nutrition perspective, so, what will you believe whether you should change your warm up a bit and also like looking at other factors Say for example, like read the services or and actually giving providing a really, really simple understanding of physiologically what's going on in your body at that time because again, that's what that's what we found people know and and then everything oversee a completely back Science and evidence based and that's all, you know, again, one of our big passions, that orator everything is like, has to be very true to literature. And then and so whatever is involved in the art then is effectively picked up by the poster. And so coaches can then view what the athletes are looking to do and for example, or actually and probably a better example I'm working with Cathy women's football team at the moment and at Chelsea women's and say they want any one day I know which sentence go the logging or where they are in their cycle so I can help prepare and you know, your influence anything around their training or nutrition that might need to be changed or, like look at how we can be proactive to reduce a sentence.
+
+Unknown Speaker  18:57  
+Yeah, and So tell me I mean, you know, with sport, there's all sorts of tracking technology these days, you know, the GPS tracking devices, there's Yeah, I know Oracle does some sort of blood analysis as well with with some markers. So what's what's next in terms of? I mean, do you can we can you integrate with other tests? Or are you looking what's the next stage in terms of the technology of of the
+
+Unknown Speaker  19:29  
+I would say that as you're talking to Brian later, that would be a good question for him because obviously, I've got dreams about what I think should happen next. Brian, your mindset, signing them off your dream. And so I guess the dream would be to, for every athlete we work with to be able to integrate all aspects that can affect the like, HPA axis of the hypothalamus pituitary x is related the release of hormones I'd say, look at that daily wellness Exactly. Look at their stress levels, integrate their training load, and pull that all together with regular blood testing so that we can really understand when they're at risk of illness when they're at risk of injury and align that to their menstrual cycle, and then stay on any one day. Okay. And we know with, you know, full evidence that you shouldn't do this or to do to be able to play at your best you need to do this.
+
+Unknown Speaker  20:32  
+Yeah, no, that makes sense.
+
+Unknown Speaker  20:36  
+Okay, to be able to predict in advance, like, typically, you get this sentence, like, do this. And now we do that on a one to one basis with the US and the national team. But we can't do that with the general population. So to be able to do that. Yeah. Yeah, of course.
+
+Unknown Speaker  20:54  
+And tell me. I mean, you mentioned that you work with some British athletes. Can you can you names
+
+Unknown Speaker  21:01  
+even though I probably I probably can't within the system because I feel like yeah that probably wouldn't be ideal but I mean I can name all the teams are wrestling with like the Oregon cat club no larger project the Oregon track club in Oregon. Hannah green is one of our key athletes 30 metre runner and and then the US country ski team and Lady Gaelic football team and we we actually have been working with the GB canoeing team. Then who else loses DO red bow high performance
+
+Unknown Speaker  21:44  
+Academy? I know them very well. Yes. I really want to feature storey about them
+
+Unknown Speaker  21:50  
+years ago, yeah.
+
+Unknown Speaker  21:52  
+concept
+
+Unknown Speaker  21:53  
+with Eddie Walsh. Dan Turner.
+
+Unknown Speaker  21:57  
+Oh, yeah, john
+
+Unknown Speaker  21:58  
+pears pears was there. I mean, Yeah, I could say,
+
+Unknown Speaker  22:02  
+Yeah. See, you're not going to that you're going to a conference.
+
+Unknown Speaker  22:05  
+No, I know I can't. Okay. Are you going?
+
+Unknown Speaker  22:08  
+Yes, I am actually in in December. And then who asked me record? Like I was like a whole range of different people, obviously the urine Soca, OUS swimming, that's a big client of ours. And then and then our like, FIFA coach app is used by loads of different people. So they they do a lot of consultancy clients. But then on top of that, we have you know, AP is used by the Scottish Women's rugby team or the sum of the New Zealand teams, high performance for New Zealand teams and teams in Australia, and like a whole range of different people.
+
+Unknown Speaker  22:48  
+And would you say that, I mean, obviously, like you said, the IS have their own management system. But would you say that your app in terms of when it comes to tracking the metro cycle is probably the only do you have any competitors? Yes.
+
+Unknown Speaker  23:08  
+Yeah, we do. Like, I mean, Garmin is just to enter menstrual cycle tracking option. It doesn't have much than more than one line about what it does. me there's not really I wouldn't say
+
+Unknown Speaker  23:23  
+30 4050 different places.
+
+Unknown Speaker  23:25  
+I can't hear very well. Now you're
+
+Unknown Speaker  23:29  
+sorry, I say it's not the compact attack and dominant, it's got a different focus.
+
+Unknown Speaker  23:34  
+Sure, of course.
+
+Unknown Speaker  23:36  
+So, I mean, I guess this is
+
+Unknown Speaker  23:41  
+it. I mean, in terms of,
+
+Unknown Speaker  23:45  
+you know, we we always look at, you know, sort of the advances and sports science and what's next. I mean, I guess this is, you know, the a lot of focus now on mental health, but this is huge, right? This is a fundamental shift in in
+
+Unknown Speaker  24:00  
+Yeah, yeah.
+
+Unknown Speaker  24:03  
+I mean, how many people like you? I mean, I know some, you know, obviously some people in the is this a scientist I'm supposed to be talking to Kirsty cell. Do you know her?
+
+Unknown Speaker  24:15  
+Yeah, yes, she did my body.
+
+Unknown Speaker  24:17  
+Oh, she did. Okay.
+
+Unknown Speaker  24:19  
+It's a very, very small world. There's not many people in
+
+Unknown Speaker  24:22  
+person. It's a small world, isn't it? I mean, how is that a very tight community of researchers working on this and trying to
+
+Unknown Speaker  24:30  
+kind of Yeah, definitely like I think with it, yep. Yeah. Which we're really trying to work together to pull things together I think. Yeah, I think the more we can keep researching keep the conversation going, the better but it is. It's a challenge like it really is because I think even getting people talking about this is problematic. So and because people don't want to talk about and then psycho. And so, like getting that on the agenda and then the massive complexities involved with tracking the menstrual cycle or not tracking but changing training around the menstrual cycle, unless that's why we are out because we're we just feel that the most simple and easy way. Firstly, also helping to ensure that athletes are menstruating. Like that's another key point. We know that some days so yeah, it like, in a way facilitate what can be an awkward conversation? And
+
+Unknown Speaker  25:36  
+yeah, what do you say people do you mean the actors themselves or just other coaches who are predominantly male,
+
+Unknown Speaker  25:42  
+unfortunately so far? Um, yeah, I think the base like if you're not educated, then you're not going to want to talk about the area. And I think the lack of education has meant that many people don't want to talk about the area. And which is, yeah, I mean, that's all that did a fundamental problem in itself.
+
+Unknown Speaker  26:02  
+Yeah,
+
+Unknown Speaker  26:04  
+it's a complicated. And
+
+Unknown Speaker  26:09  
+I mean, in Tokyo, how many how many would you say of those athletes? I mean, the top very, very top athletes in the world. I mean, I'm talking about the women, obviously, how many days that they are going to do some sort of period tracking for as part of their training?
+
+Unknown Speaker  26:27  
+And I honestly, I don't know. I I feel like, you know, I, yeah, I mean, we've got hundreds of thousands of app users now around the world that are creating a wellness room. I know that, for example, the other day, we were just told that the whole of the Canadian Canadian 20 minutes and athletics team, they're using our app, which is great. Yeah, we just didn't know that. So I'm hoping that people are increasingly doing it, but I really Honestly, like I was talking the other day to a colleague and I said, Why don't we try and get the IOC to ask a few questions to all of the athletes around this? And that? Yeah, I'm not sure.
+
+Unknown Speaker  27:15  
+What's your take on on the the IS programme, the smarter programme? I think it's,
+
+Unknown Speaker  27:22  
+and then No, I do. I think it's brilliant that having the conversation for sure, I think is really positive. And, you know, I'm always delighted to hear that people are talking about this area. So yeah, that's great. And
+
+Unknown Speaker  27:37  
+sorry, I know you have to go at some point.
+
+Unknown Speaker  27:39  
+Yeah, sorry. I might have turned around in the background.
+
+Unknown Speaker  27:44  
+One question, in terms of I mean, obviously, there's the women's soccer team. But in terms of case studies of storeys, of athletes who, for whom this is sort of a knowledge was fundamental in changing part of the trainer changing their performance? Who do you think I should talk to? And then you can mention names of the record if you want to
+
+Unknown Speaker  28:13  
+say not not at all or can they be fruitful?
+
+Unknown Speaker  28:19  
+Yeah, that can be football but you know, some diversity especially given that we're going to the Olympics some you know, other sports as well be great. But yeah, just just just say what you what you think.
+
+Unknown Speaker  28:34  
+Yeah, I mean, there's like a whole range of footballers
+
+Unknown Speaker  28:38  
+regular Bell, like famously,
+
+Unknown Speaker  28:41  
+you know, that dawn spoken about that in the media. So that's like, kind of one that I can freely say. And then, I mean, some of the GB canoeing Queen, I think would be happy to talk about and I've got Yes, and running has Work with I know mere clubbing to the low Junior Ambassador above the young swimmer he really made a big breakthrough recently and is hoping to qualify for the Olympics next year. It'll be pretty good she's very young say it would be pretty amazing and
+
+Unknown Speaker  29:22  
+then qualify or not and may not know yet but she has the chance to then
+
+Unknown Speaker  29:32  
+the like the range of other people I I am actually gonna have to dash Am I going to be massive later my next week with Brian Brian like I'm you know, I I think I share most things that Brian that we're up to six Brian will be if you go any further questions he'll be able to fill you in on a different
+
+Unknown Speaker  29:55  
+colour. No, I do appreciate your time and hopefully we can speak again.
+
+Unknown Speaker  29:59  
+Yeah, hey One other thing I was actually might be relevant to. And Gigi Maria is like a massive supporter but also Yeah, she's been like instrumental in so many different ways.
+
+Unknown Speaker  30:13  
+Awesome. Awesome. That's great. Thank you so much. Thank you. Bye
+
+Transcribed by https://otter.ai
